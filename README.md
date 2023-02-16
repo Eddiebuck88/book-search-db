@@ -1,4 +1,4 @@
-# 21 MERN: Book Search Engine
+book-search-db Book Search Engine
 
 ## Your Task
 
